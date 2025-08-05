@@ -21,8 +21,7 @@ emotional-support-agent/
 │   └── ...
 ├── backend/                # Flask API
 │   └── app.py
-├── docker/                 # Contenedor de Ollama (opcional)
-│   └── Dockerfile
+│── Dockerfile
 ├── README.txt
 └── .gitignore
 
