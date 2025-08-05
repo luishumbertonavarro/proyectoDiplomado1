@@ -1,0 +1,48 @@
+# Node modules
+/frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Docker
+**/.docker/
+docker-compose.override.yml
+
+# Coverage / Testing
+htmlcov/
+.tox/
+coverage.xml
+.cache/
+pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Ollama model cache (if present)
+~/.ollama/
+
+# Others
+*.sqlite3
+*.db
