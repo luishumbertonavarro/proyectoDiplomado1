@@ -12,19 +12,6 @@ Un agente conversacional para apoyo emocional, desarrollado con:
 
 Este asistente está diseñado para brindar apoyo psicológico y emocional a través de una interfaz web intuitiva. Utiliza un modelo LLM de última generación (DeepSeek-R1) adaptado mediante prompt engineering para ofrecer respuestas empáticas y seguras.
 
----
-
-📁 Estructura del proyecto
-
-emotional-support-agent/
-├── frontend/               # React App
-│   └── ...
-├── backend/                # Flask API
-│   └── app.py
-├── docker/                 # Contenedor de Ollama (opcional)
-│   └── Dockerfile
-├── README.txt
-└── .gitignore
 
 ---
 
